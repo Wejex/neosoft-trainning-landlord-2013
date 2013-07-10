@@ -1,0 +1,96 @@
+/***********************************************************************
+ * Module:  Event.cpp
+ * Author:  Administrator
+ * Modified: 2013Äê7ÔÂ9ÈÕ 12:56:19
+ * Purpose: Implementation of the class Event
+ ***********************************************************************/
+
+#include "Button.h"
+#include "Event.h"
+
+////////////////////////////////////////////////////////////////////////
+// Name:       Event::Event(int id, CGameDlg* dlg)
+// Purpose:    Implementation of Event::Event()
+// Parameters:
+// - id
+// - dlg
+// Return:     
+////////////////////////////////////////////////////////////////////////
+
+Event::Event(int id, CGameDlg* dlg)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       Event::Paint(CDC* dc)
+// Purpose:    Implementation of Event::Paint()
+// Parameters:
+// - dc
+// Return:     void
+////////////////////////////////////////////////////////////////////////
+
+void Event::Paint(CDC* dc)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       Event::AddButton(Button* button)
+// Purpose:    Implementation of Event::AddButton()
+// Parameters:
+// - button
+// Return:     void
+////////////////////////////////////////////////////////////////////////
+
+void Event::AddButton(Button* button)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       Event::ButtonAt()
+// Purpose:    Implementation of Event::ButtonAt()
+// Return:     Button*
+////////////////////////////////////////////////////////////////////////
+
+Button* Event::ButtonAt(void)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       Event::OnClick(int x, int y)
+// Purpose:    Implementation of Event::OnClick()
+// Parameters:
+// - x
+// - y
+// Return:     void
+////////////////////////////////////////////////////////////////////////
+
+void Event::OnClick(int x, int y)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       Event::GetID()
+// Purpose:    Implementation of Event::GetID()
+// Return:     int
+////////////////////////////////////////////////////////////////////////
+
+int Event::GetID(void)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       Event::DoWork()
+// Purpose:    Implementation of Event::DoWork()
+// Return:     void
+////////////////////////////////////////////////////////////////////////
+
+void Event::DoWork(void)
+{
+   // TODO : implement
+}
